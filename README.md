@@ -51,7 +51,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/shaiel27.https://github.com/shaiel27&left_color=darkgreen&right_color=aqua"  />
+  <img src="https://count.getloli.com/@:https://github.com/shaiel27?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=1"  />
 </div>
 
 ###
@@ -95,9 +95,9 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Shaielbecerra">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Shaielbecerra&count=5" alt="Spotify recently played"  />
-  </a>
+<a href="https://open.spotify.com/user/Shaielbecerra">
+<img src="https://www.google.com/search?q=https://spotify-recently-played-readme.vercel.app/api%3Fuser%3DShaielbecerra%26count%3D5%26unique%3Dtrue" alt="Mis canciones recientes en Spotify" width="500" />
+</a>
 </div>
 
 ###
