@@ -100,10 +100,6 @@
   </a>
 </div>
 
-###
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/https://github.com/shaiel27/https://github.com/shaiel27/output/snake.svg" alt="Snake animation" />
 
 ###
 ###
