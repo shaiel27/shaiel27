@@ -96,7 +96,7 @@
 
 <div align="center">
 <a href="https://open.spotify.com/user/Shaielbecerra">
-<img src="https://www.google.com/search?q=https://spotify-recently-played-readme.vercel.app/api%3Fuser%3DShaielbecerra%26count%3D5%26unique%3Dtrue" alt="Mis canciones recientes en Spotify" width="500" />
+<img src="https://www.google.com/search?q=https://spotify-recently-played-readme.vercel.app/api%3Fuser%3DShaielbecerra%26count%3D5%26unique%3Dtrue" alt="Spotify recientemente escuchado" width="500" />
 </a>
 </div>
 
