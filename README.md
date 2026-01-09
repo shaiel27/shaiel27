@@ -34,6 +34,13 @@
 </div>
 
 ---
+### ⚡ Quick Bio
+
+- 🔭 Actualmente trabajando en **[Nombre del Proyecto]**
+- 🌱 Aprendiendo **Astro** y **Deep Learning**
+- 💬 Pregúntame sobre **React o Desarrollo Mobile**
+- ⚡ Fun fact: Me encanta [Tu Hobbie] mientras escucho música
+---
 ### 🎧 Lo que escucho mientras programo
 
 <div align="center">
@@ -43,16 +50,14 @@
 </div>
 
 ---
-### 📂 Proyectos Destacados
+### 📊 Mis Lenguajes más usados
 
 <div align="center">
-  <a href="https://github.com/shaiel27/PROYECTO-1">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=shaiel27&repo=NOMBRE_DE_TU_REPO&theme=dracula" />
-  </a>
-  <a href="https://github.com/shaiel27/PROYECTO-2">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=shaiel27&repo=OTRO_REPO&theme=dracula" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaiel27&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Langs" />
 </div>
+
+---
+
 
 ### 👾 Mi Actividad
 
