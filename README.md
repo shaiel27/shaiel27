@@ -54,7 +54,7 @@
   </picture>
 </p>
 
-### 🌐 ¡Hablemos!
+### 🌐 ¡Contactame!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shaiel-becerra-ba15b93a4" target="_blank">
