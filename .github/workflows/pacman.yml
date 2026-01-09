@@ -2,8 +2,8 @@ name: Generate pacman animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Ejecuta cada 12 horas exactamente
-  workflow_dispatch:
+    - cron: "0 */12 * * *" # Cada 12 horas
+  workflow_dispatch: # Permite ejecución manual
   push:
     branches:
     - main
@@ -13,8 +13,6 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-
     steps:
       - uses: actions/checkout@v3
 
@@ -23,14 +21,13 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      # Paso crítico: Mover los archivos generados a la carpeta 'dist' para que la siguiente acción los encuentre
       - name: Prepare files for deployment
         run: |
           mkdir -p dist
           mv pacman-contribution-graph.svg dist/ 2>/dev/null || true
           mv pacman-contribution-graph-dark.svg dist/ 2>/dev/null || true
 
-      - name: push pacman-contribution-graph.svg to the output branch
+      - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
