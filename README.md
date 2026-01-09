@@ -43,6 +43,16 @@
 </div>
 
 ---
+### 📂 Proyectos Destacados
+
+<div align="center">
+  <a href="https://github.com/shaiel27/PROYECTO-1">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=shaiel27&repo=NOMBRE_DE_TU_REPO&theme=dracula" />
+  </a>
+  <a href="https://github.com/shaiel27/PROYECTO-2">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=shaiel27&repo=OTRO_REPO&theme=dracula" />
+  </a>
+</div>
 
 ### 👾 Mi Actividad
 
