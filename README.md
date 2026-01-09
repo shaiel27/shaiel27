@@ -1,10 +1,9 @@
 <h1 align="center">Hey 👋 Soy ShaiDev</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterhstlq-platane.vercel.app/api?username=shaiel27&show_icons=true&theme=dracula&locale=es" height="150" alt="Estadísticas" />
-  <img src="https://github-readme-stats-git-masterhstlq-platane.vercel.app/api/top-langs?username=shaiel27&layout=compact&theme=dracula&locale=es" height="150" alt="Lenguajes" />
+  <img src="https://github-readme-stats-alpha-theta.vercel.app/api?username=shaiel27&show_icons=true&theme=dracula&locale=es" height="150" alt="Estadísticas" />
+  <img src="https://github-readme-stats-alpha-theta.vercel.app/api/top-langs?username=shaiel27&layout=compact&theme=dracula&locale=es" height="150" alt="Lenguajes" />
 </p>
-
 ---
 
 ### 🚀 Tecnologías y Herramientas
