@@ -34,7 +34,7 @@
 
 <div align="left">
 <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dandroidstudio,unity,arduino,vercel,npm,git,docker,bash" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="48" alt="insomnia" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="48" alt="insomnia logo" />
 </div>
 
 🎧 Lo que escucho mientras programo
