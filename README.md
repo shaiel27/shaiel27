@@ -10,12 +10,30 @@
 
 ### 🚀 Tecnologías y Herramientas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,py,js,react,html,css,docker,git,postgres,androidstudio,bash,bootstrap,c,cs,cpp" />
-</p>
+#### 💻 Lenguajes de Programación
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,c,cs,cpp,html,css" />
+</div>
+
+#### 🏗️ Frameworks y Librerías
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,express,bootstrap,vite" height="40" alt="frameworks" />
+</div>
+
+#### 🗄️ Base de Datos y Backend
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql" height="40" alt="backend" />
+</div>
+
+#### 🛠️ Herramientas y Entornos
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,unity,vercel,arduino" height="40" alt="tools" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia" />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm" />
+</div>
 
 ---
-
 ### 🎧 Lo que escucho mientras programo
 
 <div align="center">
