@@ -48,13 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://count.getloli.com/@:https://github.com/shaiel27?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=1"  />
-</div>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shaiel-becerra-ba15b93a4" target="_blank">
