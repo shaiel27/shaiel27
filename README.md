@@ -36,10 +36,9 @@
 ---
 ### ⚡ Quick Bio
 
-- 🔭 Actualmente trabajando en **[Nombre del Proyecto]**
-- 🌱 Aprendiendo **Astro** y **Deep Learning**
-- 💬 Pregúntame sobre **React o Desarrollo Mobile**
-- ⚡ Fun fact: Me encanta [Tu Hobbie] mientras escucho música
+- 🔭 Actualmente trabajando en TrainerApp
+- 🌱 Aprendiendo **React Native**
+- 💬 Pregúntame sobre **React o Desarrollo de base de datos**
 ---
 ### 🎧 Lo que escucho mientras programo
 
@@ -47,13 +46,6 @@
   <a href="https://open.spotify.com/user/31pvuzcwxi3qzwsn2d7myuazyzkm">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31pvuzcwxi3qzwsn2d7myuazyzkm&count=5&unique=true&width=600" alt="Spotify Recent" />
   </a>
-</div>
-
----
-### 📊 Mis Lenguajes más usados
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaiel27&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Langs" />
 </div>
 
 ---
