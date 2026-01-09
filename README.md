@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats-alpha-theta.vercel.app/api?username=shaiel27&show_icons=true&theme=dracula&locale=es" height="150" alt="Estadísticas" />
   <img src="https://github-readme-stats-alpha-theta.vercel.app/api/top-langs?username=shaiel27&layout=compact&theme=dracula&locale=es" height="150" alt="Lenguajes" />
 </p>
----
+
 
 ### 🚀 Tecnologías y Herramientas
 
