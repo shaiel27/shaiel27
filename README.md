@@ -8,8 +8,9 @@
 <h1 align="center">Hey 👋 Soy ShaiDev</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats-alpha-theta.vercel.app/api?username=shaiel27&show_icons=true&theme=dracula&locale=es" height="150" alt="Estadísticas" />
-  <img src="https://github-readme-stats-alpha-theta.vercel.app/api/top-langs?username=shaiel27&layout=compact&theme=dracula&locale=es" height="150" alt="Lenguajes" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaiel27&theme=dracula&locale=es" height="150" alt="GitHub Streak" />
+  
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=shaiel27&show_icons=true&theme=dracula&locale=es" height="150" alt="Estadísticas Generales" />
 </p>
 
 
