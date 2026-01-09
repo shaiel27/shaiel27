@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=ShaiDev&fontSize=70&fontColor=FFFFFF&color=gradient" width="100%" />
 </div>
 
-<h1 align="center">Hey 👋 Soy Shai</h1>
+<h1 align="center">Hey 👋 Soy Shaiel Becerra</h1>
 
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=shaiel27&show_icons=true&theme=dracula&locale=es" height="170" alt="Estadísticas de GitHub" />
