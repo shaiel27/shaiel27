@@ -85,5 +85,5 @@
 <br />
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/shaiel-becerra-ba15b93a4" target="_blank">
-    <img src="
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=100&section=footer&color=gradient" width="100%" />
+</div>
