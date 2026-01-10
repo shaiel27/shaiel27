@@ -1,4 +1,4 @@
-name: generate animation
+name: generate pacman animation
 
 on:
   # Ejecutar automáticamente cada 24 horas
